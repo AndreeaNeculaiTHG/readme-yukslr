@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://AndreeaNeculaiTHG.github.io/readme-yukslr/sitemap.xml
